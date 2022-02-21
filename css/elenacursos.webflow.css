@@ -1289,15 +1289,15 @@ strong {
 .virtual {
   display: inline-block;
   margin-bottom: 16px;
-  padding-right: 16px;
-  padding-left: 16px;
+  padding: 8px 16px;
   -webkit-align-self: flex-start;
   -ms-flex-item-align: start;
   align-self: flex-start;
   border-radius: 8px;
   background-color: #4722d3;
   color: #f2f8ff;
-  font-size: 14px;
+  font-size: 12px;
+  line-height: 12px;
   text-transform: uppercase;
 }
 
